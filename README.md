@@ -5,4 +5,4 @@ bit of a pain to quickly compare the outputs , in order to narrow down to librar
 This repo is made with intend of helping out community, to pick the best fit map based visualisation for their application.
 
 Here is one of the example :
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Example Using MapBox](https://github.com/carnot-technologies/MapVisualizations/blob/master/data/readme_image.png)
