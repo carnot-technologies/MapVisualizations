@@ -1,0 +1,7 @@
+{"__comment__": "JSON file specifying the image to use for a given type/name and resolution. Read in by cartopy.mpl.geoaxes.read_user_background_images.",
+  "BM_NASA": {
+    "__projection__": "PlateCarree",
+    "__comment__": "CustomBG",
+    "__source__": "CustomSource",
+    "low": "BM_NASA.png"  }
+}
