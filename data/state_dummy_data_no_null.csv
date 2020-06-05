@@ -1,37 +1,38 @@
 index,st_nm,count
-0,Andaman & Nicobar Island,0
-1,Arunanchal Pradesh,0
-2,Assam,0
-3,Bihar,3
-4,Chandigarh,0
-5,Chhattisgarh,9
-6,Dadara & Nagar Havelli,0
-7,Daman & Diu,0
-8,Goa,0
-9,Gujarat,0
-10,Haryana,0
-11,Himachal Pradesh,2
-12,Jammu & Kashmir,0
-13,Jharkhand,2
-14,Karnataka,3
-15,Kerala,0
-16,Lakshadweep,0
-17,Madhya Pradesh,16
-18,Maharashtra,115
-19,Manipur,0
-20,Meghalaya,0
-21,Mizoram,0
-22,Nagaland,0
-23,NCT of Delhi,0
-24,Puducherry,0
-25,Punjab,8
-26,Rajasthan,16
-27,Sikkim,0
-28,Tamil Nadu,1
-29,Telangana,0
-30,Tripura,0
-31,Uttar Pradesh,463
-32,Uttarakhand,30
-33,West Bengal,0
-34,Odisha,1
-35,Andhra Pradesh,0
+0,ANDAMAN & NICOBAR,0
+1,ARUNACHAL PRADESH,0
+2,ASSAM,0
+3,BIHAR,3
+4,CHANDIGARH,0
+5,CHHATTISGARH,9
+6,DADRA & NAGAR HAVE,0
+7,DAMAN & DIU,0
+8,GOA,0
+9,GUJARAT,0
+10,HARYANA,0
+11,HIMACHAL PRADESH,2
+12,JAMMU & KASHMIR,90
+13,JHARKHAND,2
+14,KARNATAKA,3
+15,KERALA,0
+16,LAKSHADWEEP,0
+17,MADHYA PRADESH,16
+18,MAHARASHTRA,115
+19,MANIPUR,0
+20,MEGHALAYA,0
+21,MIZORAM,0
+22,NAGALAND,0
+23,DELHI,0
+24,PUDUCHERRY,0
+25,PUNJAB,8
+26,RAJASTHAN,16
+27,SIKKIM,0
+28,TAMIL NADU,1
+29,TELANGANA,0
+30,TRIPURA,0
+31,UTTAR PRADESH,463
+32,UTTARAKHAND,30
+33,WEST BENGAL,0
+34,ODISHA,1
+35,ANDHRA PRADESH,0
+36,LADAKH,0
