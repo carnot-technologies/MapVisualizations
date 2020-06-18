@@ -1,3 +1,5 @@
+![Map-based Visualizations](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/All_Visualizations.png)
+
 # Map-based Visualizations in Python
 [![HitCount](http://hits.dwyl.com/carnot-technologies/MapVisualizations.svg)](http://hits.dwyl.com/carnot-technologies/MapVisualizations)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -5,9 +7,6 @@
 :star: Star us on GitHub — it helps!  
 This is the helper repo for the series of map-based visualization tutorial posts on medium, covering several popular python libraries that are generally used for geo-spatial data visualization.
 
-The image below shows the various kinds of visualizations that are covered:
-
-![Map-based Visualizations](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/All_Visualizations.png)
 
 ## Table of contents
 - [About](#about)
@@ -27,12 +26,12 @@ Hence, we started off with one library at a time, determined what it was best su
 ## Libraries Covered
 | Library  | Visualization Covered | Visualization Preview |
 | :---:  | :---:  | :---:  |
-| Cartopy | Scatter | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/cartopy.png)|
+| Cartopy | Scatter with custom map background | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/cartopy.png)|
 | GeoPandas | Choropleth with shapefile | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/geopandas.png) |
-| Plotly | Choropleth with GeoJSON | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/plotly.png)|
-| Plotly + Mapbox | Scatter | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/mapbox1.PNG) |
-| Plotly + Mapbox | Choropleth with GeoJSON | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/mapbox2.PNG) |
-| Plotly + Datashader | Scatter | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/datashader.PNG) |
-| Folium | Choropleth with TopoJSON | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/folium.png) |
+| Plotly | Interactive Choropleth with GeoJSON | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/plotly.png)|
+| Plotly + Mapbox | Interactive Scatter with base-map | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/mapbox1.PNG) |
+| Plotly + Mapbox | Interactive Choropleth with GeoJSON and base-map | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/mapbox2.PNG) |
+| Plotly + Datashader | Partly Interactive Large-data Scatter with base-map | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/datashader.PNG) |
+| Folium | Partly Interactive Choropleth with TopoJSON | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/folium.png) |
 
 
