@@ -6,6 +6,7 @@
 This is the helper repo for the series of map-based visualization tutorial posts on medium, covering several popular python libraries that are generally used for geo-spatial data visualization.
 
 The image below shows the various kinds of visualizations that are covered:
+
 ![Map-based Visualizations](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/All_Visualizations.png)
 
 ## Table of contents
