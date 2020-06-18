@@ -6,7 +6,7 @@
 This is the helper repo for the series of map-based visualization tutorial posts on medium, covering several popular python libraries that are generally used for geo-spatial data visualization.
 
 The image below shows the various kinds of visualizations that are covered:
-![Map-based Visualizations](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/All_Visualizations.png)
+![Map-based Visualizations](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/All_Visualizations.png)
 
 ## Table of contents
 - [About](#about)
@@ -26,12 +26,12 @@ Hence, we started off with one library at a time, determined what it was best su
 ## Libraries Covered
 | Library  | Visualization Covered | Visualization Preview |
 | :---:  | :---:  | :---:  |
-| Cartopy | Scatter | |
-| GeoPandas | Choropleth with shapefile | |
-| Plotly | Choropleth with GeoJSON | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/India_choropleth.png)|
-| Plotly + Mapbox | Scatter | |
-| Plotly + Mapbox | Choropleth with GeoJSON | |
-| Plotly + Datashader | Scatter | |
-| Folium | Choropleth with TopoJSON | |
+| Cartopy | Scatter | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/cartopy.png)|
+| GeoPandas | Choropleth with shapefile | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/geopandas.png) |
+| Plotly | Choropleth with GeoJSON | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/plotly.png)|
+| Plotly + Mapbox | Scatter | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/mapbox1.PNG) |
+| Plotly + Mapbox | Choropleth with GeoJSON | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/mapbox2.PNG) |
+| Plotly + Datashader | Scatter | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/datashader.PNG) |
+| Folium | Choropleth with TopoJSON | ![](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/GitHub%20Readme%20Images/folium.png) |
 
 
