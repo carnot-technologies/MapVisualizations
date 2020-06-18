@@ -1,8 +1,7 @@
 # MapVisualizations
-Map based visualizations is one of the common themes, when it comes to data presentation / exploring data insights.
-Although there are tons of options to represent geographical data on a map in python, these resources are clustered, and it is
-bit of a pain to quickly compare the outputs , in order to narrow down to library of your preference.
-This repo is made with intend of helping out community, to pick the best fit map based visualisation for their application.
+Map-based visualizations are an essential aspect of any data-presentation/ inference. Geo-spatial visualizations become all the more important for IoT companies like Carnot which have their devices scattered across different geographies. We at Carnot realized the need for having a robust map-based visualization infrastructure for all our present and future requirements. When we started building this infrastructure, we realized that there are way too many libraries available for map visualizations and several detailed tutorials for each library. However, what wasn't readily available was a comparison of the different libraries and a guide on which library is best suited for a particular application. 
 
-Here is one of the example :
-![Example Using MapBox](https://github.com/carnot-technologies/MapVisualizations/blob/master/data/readme_image.png)
+Hence, we started off with one library at a time, determined what it was best suited for, and then moved on to the next. We kept doing this exercise till we generated nearly all the types of visualizations we could envision. This repo is a helper repo for the series of Medium blog posts on map-based visualizations, where we share a summary of our learning during this entire exercise. It will hopefully serve as a guide to people who find themselves as overwhelmed with choices as we were at the start of our infra-building exercise.
+
+The image below shows the various kinds of visualizations that are covered:
+![Map-based Visualizations](https://github.com/carnot-technologies/MapVisualizations/blob/master/images/All_Visualizations.png)
